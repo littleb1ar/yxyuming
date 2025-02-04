@@ -17,7 +17,6 @@ vless://66cb1312-ed45-4b44-8abf-d5840c93ae37@www.pcmag.com:8443?encryption=none&
 vless://66cb1312-ed45-4b44-8abf-d5840c93ae37@shopify.com:8443?encryption=none&security=tls&type=ws&host=yg56.pages.dev&sni=yg56.pages.dev&fp=random&path=%2F%3Fed%3D2560#shopify.com-yg
 vless://66cb1312-ed45-4b44-8abf-d5840c93ae37@www.okcupid.com:8443?encryption=none&security=tls&type=ws&host=yg56.pages.dev&sni=yg56.pages.dev&fp=random&path=%2F%3Fed%3D2560#www.okcupid.com-yg
 vless://66cb1312-ed45-4b44-8abf-d5840c93ae37@www.4chan.org:8443?encryption=none&security=tls&type=ws&host=yg56.pages.dev&sni=yg56.pages.dev&fp=random&path=%2F%3Fed%3D2560#www.4chan.org-yg
-vless://66cb1312-ed45-4b44-8abf-d5840c93ae37@time.cloudflare.com:8443?encryption=none&security=tls&type=ws&host=yg56.pages.dev&sni=yg56.pages.dev&fp=random&path=%2F%3Fed%3D2560#time.cloudflare.com-yg
 vless://66cb1312-ed45-4b44-8abf-d5840c93ae37@ip.sb:8443?encryption=none&security=tls&type=ws&host=yg56.pages.dev&sni=yg56.pages.dev&fp=random&path=%2F%3Fed%3D2560#ip.sb-yg
 vless://66cb1312-ed45-4b44-8abf-d5840c93ae37@www.glassdoor.com:8443?encryption=none&security=tls&type=ws&host=yg56.pages.dev&sni=yg56.pages.dev&fp=random&path=%2F%3Fed%3D2560#www.glassdoor.com-yg
 vless://66cb1312-ed45-4b44-8abf-d5840c93ae37@www.ipget.net:8443?encryption=none&security=tls&type=ws&host=yg56.pages.dev&sni=yg56.pages.dev&fp=random&path=%2F%3Fed%3D2560#www.ipget.net-yg
@@ -30,7 +29,6 @@ vless://66cb1312-ed45-4b44-8abf-d5840c93ae37@www.baipiao.eu.org:8443?encryption=
 vless://66cb1312-ed45-4b44-8abf-d5840c93ae37@iplocation.io:8443?encryption=none&security=tls&type=ws&host=yg56.pages.dev&sni=yg56.pages.dev&fp=random&path=%2F%3Fed%3D2560#iplocation.io-yg
 vless://66cb1312-ed45-4b44-8abf-d5840c93ae37@www.csgo.com:8443?encryption=none&security=tls&type=ws&host=yg56.pages.dev&sni=yg56.pages.dev&fp=random&path=%2F%3Fed%3D2560#www.csgo.com-yg
 vless://66cb1312-ed45-4b44-8abf-d5840c93ae37@www.whoer.net:8443?encryption=none&security=tls&type=ws&host=yg56.pages.dev&sni=yg56.pages.dev&fp=random&path=%2F%3Fed%3D2560#www.whoer.net-yg
-vless://66cb1312-ed45-4b44-8abf-d5840c93ae37@www.shopify.com:8443?encryption=none&security=tls&type=ws&host=yg56.pages.dev&sni=yg56.pages.dev&fp=random&path=%2F%3Fed%3D2560#www.shopify.com-yg
 vless://66cb1312-ed45-4b44-8abf-d5840c93ae37@www.iakeys.com:8443?encryption=none&security=tls&type=ws&host=yg56.pages.dev&sni=yg56.pages.dev&fp=random&path=%2F%3Fed%3D2560#www.iakeys.com-yg
 vless://66cb1312-ed45-4b44-8abf-d5840c93ae37@japan.com:8443?encryption=none&security=tls&type=ws&host=yg56.pages.dev&sni=yg56.pages.dev&fp=random&path=%2F%3Fed%3D2560#japan.com-yg
 vless://66cb1312-ed45-4b44-8abf-d5840c93ae37@time.is:8443?encryption=none&security=tls&type=ws&host=yg56.pages.dev&sni=yg56.pages.dev&fp=random&path=%2F%3Fed%3D2560#time.is-yg
