@@ -14,7 +14,6 @@ vless://66cb1312-ed45-4b44-8abf-d5840c93ae37@www.visa.com.sg:8443?encryption=non
 vless://66cb1312-ed45-4b44-8abf-d5840c93ae37@gur.gov.ua:8443?encryption=none&security=tls&type=ws&host=yg56.pages.dev&sni=yg56.pages.dev&fp=random&path=%2F%3Fed%3D2560#gur.gov.ua-yg
 vless://66cb1312-ed45-4b44-8abf-d5840c93ae37@www.whatismyip.com:8443?encryption=none&security=tls&type=ws&host=yg56.pages.dev&sni=yg56.pages.dev&fp=random&path=%2F%3Fed%3D2560#www.whatismyip.com-yg
 vless://66cb1312-ed45-4b44-8abf-d5840c93ae37@www.pcmag.com:8443?encryption=none&security=tls&type=ws&host=yg56.pages.dev&sni=yg56.pages.dev&fp=random&path=%2F%3Fed%3D2560#www.pcmag.com-yg
-vless://66cb1312-ed45-4b44-8abf-d5840c93ae37@shopify.com:8443?encryption=none&security=tls&type=ws&host=yg56.pages.dev&sni=yg56.pages.dev&fp=random&path=%2F%3Fed%3D2560#shopify.com-yg
 vless://66cb1312-ed45-4b44-8abf-d5840c93ae37@www.okcupid.com:8443?encryption=none&security=tls&type=ws&host=yg56.pages.dev&sni=yg56.pages.dev&fp=random&path=%2F%3Fed%3D2560#www.okcupid.com-yg
 vless://66cb1312-ed45-4b44-8abf-d5840c93ae37@www.4chan.org:8443?encryption=none&security=tls&type=ws&host=yg56.pages.dev&sni=yg56.pages.dev&fp=random&path=%2F%3Fed%3D2560#www.4chan.org-yg
 vless://66cb1312-ed45-4b44-8abf-d5840c93ae37@ip.sb:8443?encryption=none&security=tls&type=ws&host=yg56.pages.dev&sni=yg56.pages.dev&fp=random&path=%2F%3Fed%3D2560#ip.sb-yg
