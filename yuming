@@ -34,3 +34,6 @@ vless://66cb1312-ed45-4b44-8abf-d5840c93ae37@time.is:8443?encryption=none&securi
 vless://66cb1312-ed45-4b44-8abf-d5840c93ae37@whatismyipaddress.com:8443?encryption=none&security=tls&type=ws&host=yg56.pages.dev&sni=yg56.pages.dev&fp=random&path=%2F%3Fed%3D2560#whatismyipaddress.com-yg
 vless://66cb1312-ed45-4b44-8abf-d5840c93ae37@www.boba88slot.com:8443?encryption=none&security=tls&type=ws&host=yg56.pages.dev&sni=yg56.pages.dev&fp=random&path=%2F%3Fed%3D2560#www.boba88slot.com-yg
 vless://66cb1312-ed45-4b44-8abf-d5840c93ae37@cdnjs.com:8443?encryption=none&security=tls&sni=yg56.pages.dev&fp=random&allowInsecure=1&type=ws&host=yg56.pages.dev&path=%2F%3Fed%3D2560#cdnjs.com-yg
+vless://66cb1312-ed45-4b44-8abf-d5840c93ae37@workers.cloudflare.com:8443?encryption=none&security=tls&sni=yg56.pages.dev&fp=random&allowInsecure=1&type=ws&host=yg56.pages.dev&path=%2F%3Fed%3D2560#workers.cloudflare.com-yg
+vless://66cb1312-ed45-4b44-8abf-d5840c93ae37@ns.cloudflare.com:8443?encryption=none&security=tls&sni=yg56.pages.dev&fp=random&allowInsecure=1&type=ws&host=yg56.pages.dev&path=%2F%3Fed%3D2560#ns.cloudflare.com-yg
+vless://66cb1312-ed45-4b44-8abf-d5840c93ae37@developers.cloudflare.com:8443?encryption=none&security=tls&sni=yg56.pages.dev&fp=random&allowInsecure=1&type=ws&host=yg56.pages.dev&path=%2F%3Fed%3D2560#developers.cloudflare.com-yg
