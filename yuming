@@ -37,9 +37,3 @@ vless://66cb1312-ed45-4b44-8abf-d5840c93ae37@cdnjs.com:8443?encryption=none&secu
 vless://66cb1312-ed45-4b44-8abf-d5840c93ae37@workers.cloudflare.com:8443?encryption=none&security=tls&sni=yg56.pages.dev&fp=random&allowInsecure=1&type=ws&host=yg56.pages.dev&path=%2F%3Fed%3D2560#workers.cloudflare.com-yg
 vless://66cb1312-ed45-4b44-8abf-d5840c93ae37@ns.cloudflare.com:8443?encryption=none&security=tls&sni=yg56.pages.dev&fp=random&allowInsecure=1&type=ws&host=yg56.pages.dev&path=%2F%3Fed%3D2560#ns.cloudflare.com-yg
 vless://66cb1312-ed45-4b44-8abf-d5840c93ae37@developers.cloudflare.com:8443?encryption=none&security=tls&sni=yg56.pages.dev&fp=random&allowInsecure=1&type=ws&host=yg56.pages.dev&path=%2F%3Fed%3D2560#developers.cloudflare.com-yg
-trojan://cb308cab-70de-4a42-b22d-80b44ef88086@35.220.252.77:443?security=tls&sni=hk2.cbb01d1e-cdd6-4a11-9fb8-1c4561.083111.xyz&allowInsecure=1&type=tcp&headerType=none#MR-GCP-HK
-trojan://b986786b-a735-46c6-b651-9a1dca601baa@104.198.89.152:443?security=tls&sni=jp1.cbb01d1e-cdd6-4a11-9fb8-1c4561.083111.xyz&allowInsecure=1&type=tcp&headerType=none#MR-GCP-JP
-trojan://a005093f-b83f-4abf-867e-366ad1fc254e@34.142.213.161:443?security=tls&sni=sg1.cbb01d1e-cdd6-4a11-9fb8-1c4561.083111.xyz&allowInsecure=1&type=tcp&headerType=none#MR-GCP-SG
-trojan://b986786b-a735-46c6-b651-9a1dca601baa@35.185.164.50:443?security=tls&sni=tw2.cbb01d1e-cdd6-4a11-9fb8-1c4561.083111.xyz&allowInsecure=1&type=tcp&headerType=none#MR-GCP-TW
-hysteria2://a4eb7897-c9fc-4fd9-848d-e1899f1ecef4@happyhour-awsjp.madcity.lol:20000?sni=www.bing.com&insecure=1#MR-AWS-JP
-hysteria2://a4eb7897-c9fc-4fd9-848d-e1899f1ecef4@happyhour-awssg.madcity.lol:20000?sni=www.bing.com&insecure=1#MR-AWS-SG
