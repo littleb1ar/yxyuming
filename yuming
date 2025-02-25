@@ -18,7 +18,6 @@ vless://66cb1312-ed45-4b44-8abf-d5840c93ae37@www.okcupid.com:8443?encryption=non
 vless://66cb1312-ed45-4b44-8abf-d5840c93ae37@www.4chan.org:8443?encryption=none&security=tls&type=ws&host=yg56.pages.dev&sni=yg56.pages.dev&fp=random&path=%2F%3Fed%3D2560#www.4chan.org-yg
 vless://66cb1312-ed45-4b44-8abf-d5840c93ae37@ip.sb:8443?encryption=none&security=tls&type=ws&host=yg56.pages.dev&sni=yg56.pages.dev&fp=random&path=%2F%3Fed%3D2560#ip.sb-yg
 vless://66cb1312-ed45-4b44-8abf-d5840c93ae37@www.glassdoor.com:8443?encryption=none&security=tls&type=ws&host=yg56.pages.dev&sni=yg56.pages.dev&fp=random&path=%2F%3Fed%3D2560#www.glassdoor.com-yg
-vless://66cb1312-ed45-4b44-8abf-d5840c93ae37@www.ipget.net:8443?encryption=none&security=tls&type=ws&host=yg56.pages.dev&sni=yg56.pages.dev&fp=random&path=%2F%3Fed%3D2560#www.ipget.net-yg
 vless://66cb1312-ed45-4b44-8abf-d5840c93ae37@www.zsu.gov.ua:8443?encryption=none&security=tls&type=ws&host=yg56.pages.dev&sni=yg56.pages.dev&fp=random&path=%2F%3Fed%3D2560#www.zsu.gov.ua-yg
 vless://66cb1312-ed45-4b44-8abf-d5840c93ae37@www.visa.com:8443?encryption=none&security=tls&type=ws&host=yg56.pages.dev&sni=yg56.pages.dev&fp=random&path=%2F%3Fed%3D2560#www.visa.com-yg
 vless://66cb1312-ed45-4b44-8abf-d5840c93ae37@log.bpminecraft.com:8443?encryption=none&security=tls&type=ws&host=yg56.pages.dev&sni=yg56.pages.dev&fp=random&path=%2F%3Fed%3D2560#log.bpminecraft.com-yg
@@ -35,5 +34,3 @@ vless://66cb1312-ed45-4b44-8abf-d5840c93ae37@whatismyipaddress.com:8443?encrypti
 vless://66cb1312-ed45-4b44-8abf-d5840c93ae37@www.boba88slot.com:8443?encryption=none&security=tls&type=ws&host=yg56.pages.dev&sni=yg56.pages.dev&fp=random&path=%2F%3Fed%3D2560#www.boba88slot.com-yg
 vless://66cb1312-ed45-4b44-8abf-d5840c93ae37@cdnjs.com:8443?encryption=none&security=tls&sni=yg56.pages.dev&fp=random&allowInsecure=1&type=ws&host=yg56.pages.dev&path=%2F%3Fed%3D2560#cdnjs.com-yg
 vless://66cb1312-ed45-4b44-8abf-d5840c93ae37@workers.cloudflare.com:8443?encryption=none&security=tls&sni=yg56.pages.dev&fp=random&allowInsecure=1&type=ws&host=yg56.pages.dev&path=%2F%3Fed%3D2560#workers.cloudflare.com-yg
-vless://66cb1312-ed45-4b44-8abf-d5840c93ae37@ns.cloudflare.com:8443?encryption=none&security=tls&sni=yg56.pages.dev&fp=random&allowInsecure=1&type=ws&host=yg56.pages.dev&path=%2F%3Fed%3D2560#ns.cloudflare.com-yg
-vless://66cb1312-ed45-4b44-8abf-d5840c93ae37@developers.cloudflare.com:8443?encryption=none&security=tls&sni=yg56.pages.dev&fp=random&allowInsecure=1&type=ws&host=yg56.pages.dev&path=%2F%3Fed%3D2560#developers.cloudflare.com-yg
